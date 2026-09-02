@@ -761,7 +761,7 @@ function App() {
 
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://secure-chat-ten-omega.vercel.app/login?demo=1"
+                    href="https://secure-chat-ten-omega.vercel.app/demo"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 px-4 py-2 rounded-lg text-sm font-medium transition"
